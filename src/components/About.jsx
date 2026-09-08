@@ -4,7 +4,7 @@ export default function About() {
       <div className="wrap">
         <div className="section-head">
           <p className="eyebrow">About us</p>
-          <h2>Run by Smart Solutions Services, Hyderabad.</h2>
+          <h2>Smart Solutions Services, Hyderabad.</h2>
         </div>
         <div className="about-grid">
           <div>
@@ -20,7 +20,7 @@ export default function About() {
           <div className="instructor-card">
             <div className="avatar">A</div>
             <div>
-              <h3>Abi & Venkatesh </h3>
+              <h3>Abi & Venkat </h3>
               <p>
                 Learn from a practitioner with 8+ years of experience building
                 scalable software and AI applications — hands-on guidance from
