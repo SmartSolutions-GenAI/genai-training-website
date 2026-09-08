@@ -3,7 +3,6 @@ export default function Hero() {
     <section className="hero">
       <div className="wrap">
         <p className="eyebrow">Batch starting soon</p>
-        <h1>Gen <span className="red">AI</span> with Python</h1>
         <p className="subhead">Live Weekend Batch for Students, Developers &amp; Professionals</p>
         <p className="lede">
           A hands-on program covering RAG, AI agents, fine-tuning, LLMOps and deployment —
@@ -14,7 +13,6 @@ export default function Hero() {
           <a href="#contact" className="btn btn-primary">Apply Now</a>
           <a href="#curriculum" className="btn btn-ghost">View Curriculum</a>
         </div>
-        <p className="hero-note">Python developers who build AI will lead the next wave.</p>
       </div>
     </section>
   )

@@ -3,8 +3,9 @@ export default function Logo() {
     <a href="#" className="brand">
       <div className="brand-mark">AI</div>
       <div>
-        <div className="brand-name">Gen<b>AI</b> with Python</div>
-        <div className="brand-sub">Smart Solutions Services</div>
+        
+        <div className="brand-name">Smart Solutions Services</div>
+        <div className="brand-sub">Neredmet X Road, Hyderabad</div>
       </div>
     </a>
   )

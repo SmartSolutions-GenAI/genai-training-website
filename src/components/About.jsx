@@ -20,7 +20,7 @@ export default function About() {
           <div className="instructor-card">
             <div className="avatar">A</div>
             <div>
-              <h3>Abi & Venkat </h3>
+              <h3>Abi & Venkatesh </h3>
               <p>
                 Learn from a practitioner with 8+ years of experience building
                 scalable software and AI applications — hands-on guidance from
