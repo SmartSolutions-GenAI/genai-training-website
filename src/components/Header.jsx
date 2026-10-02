@@ -13,7 +13,7 @@ export default function Header() {
           <a href="#curriculum">Curriculum</a>
           <a href="#modes">Online / Offline</a>
           <a href="#about">About Us</a>
-          <a href="#contact">Contact</a>
+          <a href="#contact">Contact Us</a>
         </nav>
       </div>
     </header>
